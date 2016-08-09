@@ -1,23 +1,23 @@
 {
-  "name": "chai-fs",
+  "name": "chai-fs-latest",
   "version": "0.1.0",
   "description": "Chai assertions for Node.js filesystem",
   "author": {
     "name": "Bart van der Schoor",
-    "url": "https://github.com/Bartvds"
+    "url": "https://github.com/fahad19"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bartvds/chai-fs.git"
+    "url": "https://github.com/fahad19/chai-fs.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Bartvds/chai-fs/blob/master/LICENSE-MIT"
+      "url": "https://github.com/fahad19/chai-fs/blob/master/LICENSE-MIT"
     }
   ],
   "bugs": {
-    "url": "https://github.com/Bartvds/chai-fs/issues"
+    "url": "https://github.com/fahad19/chai-fs/issues"
   },
   "keywords": [
     "chai",

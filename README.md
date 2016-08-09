@@ -6,6 +6,10 @@
 
 All assertions are available in `expect`, `should` and `assert` style, and support the optional, message parameter.
 
+## Forked
+
+Forked because of peerDependencies issue.
+
 ## Usage
 
 ### server-side
